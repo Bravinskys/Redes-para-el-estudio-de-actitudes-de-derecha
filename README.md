@@ -1,1 +1,1 @@
-# An-lisis-de-redes-para-actitudes-de-derecha
+# Análisis de redes para el modelo de actitudes de derecha
